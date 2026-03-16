@@ -1,5 +1,8 @@
 ## Hi there 👋
+Computer Engineering student at the National Autonomous University of Mexico (UNAM).
 
+
+Contact: antoniorivera52@aragon.unam.mx
 <!--
 **AntonioRivera2004/AntonioRivera2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
