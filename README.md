@@ -1,6 +1,7 @@
 ## Hi there 👋
 Computer Engineering student at the National Autonomous University of Mexico (UNAM).
 
+Interested in new ways to change video game development
 
 Contact: antoniorivera52@aragon.unam.mx
 <!--
